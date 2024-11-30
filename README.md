@@ -15,7 +15,6 @@ Customer Segmentation Using Clustering
 This project is a Machine Learning application deployed on Hugging Face using Streamlit. It includes various data visualization and machine learning functionalities implemented with popular Python libraries.
 
 
-https://github.com/pouyaardehkhani/FinancialAnalysis/blob/master/Bank_Customers_Segmentation.ipynb
 
 ## Package Requirements
 To run this project, you need the following packages and libraries installed:
