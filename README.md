@@ -1,3 +1,5 @@
+# Input Screen
+
 ![image](https://github.com/user-attachments/assets/9baa22b7-07ae-43a6-ba92-b6ccd6e791fd)
 
 # Project Title
